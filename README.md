@@ -1,1 +1,1 @@
-[# pagina-o](https://elyonann.github.io/paginacao/)
+https://elyonann.github.io/paginacao/
